@@ -78,3 +78,36 @@ O **AZ-900** é uma **porta de entrada** para o mundo do Azure, dando visão ger
     - O gerenciamento da nuvem diz respeito a gerenciar seus recursos de nuvem. Por exemplo:
         - Escalar automaticamente a implantação de recursos com base na necessidade.
         - Implantar recursos com base em um modelo pré-configurado, removendo a necessidade de configuração manual.
+## Tipos de serviços de nuvem
+
+- Iaas (Infraestrutura como serviços)
+    
+    Crie uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.
+    
+    - O serviço de nuvem mais flexível.
+    - Você configura e gerencia o hardware para seu aplicativo.
+    
+    ![image.png](attachment:3592ba8b-fe8c-45f0-81bb-68897a8d1b60:image.png)
+    
+- PaaS (Plataforma como serviço)
+    
+    Fornece um ambiente para a criação, o teste e a implantação de aplicativos de software, sem focar no gerenciamento da infraestrutura subjacente.
+    
+    - Focado no desenvolvimento de aplicativos.
+    - O gerenciamento de plataforma é realizado pelo provedor de nuvem.
+    
+    ![image.png](attachment:e1196640-03c4-4c81-9cdb-c8c13aa99f58:image.png)
+    
+- SaaS (Software como serviço)
+    
+    Os usuários se conectam e usam aplicativos com base em nuvem pela internet: por exemplo, Microsoft Office 365, e-mail e calendários.
+    
+    - Modelo de preço de pagamento conforme o uso.
+    - Os usuários pagam pelo software que utilizam em um modelo de assinatura.
+    
+    ![image.png](attachment:7aefc940-2a14-4e7d-ae33-39ba94e7d548:image.png)
+    
+
+### Modelo de responsabilidade compartilhada
+
+![image.png](attachment:e3d46549-46f6-418c-a427-241c0d189db1:image.png)
